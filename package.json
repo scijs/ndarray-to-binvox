@@ -1,6 +1,6 @@
 {
   "name": "ndarray-to-binvox",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Dumps an ndarray to a binvox stream",
   "main": "index.js",
   "directories": {
