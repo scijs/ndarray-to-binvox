@@ -1,5 +1,5 @@
 var toBinvox = require("../index.js")
 var ndarray = require("ndarray")
 var x = ndarray(new Uint8Array(8), [2,2,2])
-x.set(1,1,1,1)
+x.set(0,0,0,1)
 toBinvox(x).pipe(process.stdout)
