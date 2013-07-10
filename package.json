@@ -1,0 +1,35 @@
+{
+  "name": "ndarray-to-binvox",
+  "version": "0.0.0",
+  "description": "Dumps an ndarray to a binvox stream",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "rle-ndarray": "~1.0.2",
+    "rle-save-binvox": "~0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/ndarray-to-binvox.git"
+  },
+  "keywords": [
+    "ndarray",
+    "binvox",
+    "volume",
+    "graphics",
+    "model"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "328a50b86a145c350e7f68c9688db99f75fa531f",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/ndarray-to-binvox/issues"
+  }
+}
